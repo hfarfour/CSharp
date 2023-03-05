@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\obj\Debug\netcoreapp3.1\Extension Method.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\obj\Debug\netcoreapp3.1\Extension Method.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\obj\Debug\netcoreapp3.1\Extension Method.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\obj\Debug\netcoreapp3.1\Extension Method.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\bin\Debug\netcoreapp3.1\Extension Method.exe
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\bin\Debug\netcoreapp3.1\Extension Method.deps.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\bin\Debug\netcoreapp3.1\Extension Method.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\bin\Debug\netcoreapp3.1\Extension Method.runtimeconfig.dev.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\bin\Debug\netcoreapp3.1\Extension Method.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\bin\Debug\netcoreapp3.1\Extension Method.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\obj\Debug\netcoreapp3.1\Extension Method.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\obj\Debug\netcoreapp3.1\Extension Method.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Extension Method\obj\Debug\netcoreapp3.1\Extension Method.genruntimeconfig.cache

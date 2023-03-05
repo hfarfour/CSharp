@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\bin\Debug\netcoreapp3.1\Stream-IO.exe
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\bin\Debug\netcoreapp3.1\Stream-IO.deps.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\bin\Debug\netcoreapp3.1\Stream-IO.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\bin\Debug\netcoreapp3.1\Stream-IO.runtimeconfig.dev.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\bin\Debug\netcoreapp3.1\Stream-IO.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\bin\Debug\netcoreapp3.1\Stream-IO.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\obj\Debug\netcoreapp3.1\Stream-IO.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\obj\Debug\netcoreapp3.1\Stream-IO.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\obj\Debug\netcoreapp3.1\Stream-IO.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\obj\Debug\netcoreapp3.1\Stream-IO.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\obj\Debug\netcoreapp3.1\Stream-IO.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\obj\Debug\netcoreapp3.1\Stream-IO.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Stream-IO\obj\Debug\netcoreapp3.1\Stream-IO.genruntimeconfig.cache

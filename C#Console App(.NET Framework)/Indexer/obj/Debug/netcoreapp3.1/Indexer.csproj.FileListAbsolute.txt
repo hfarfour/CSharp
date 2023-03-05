@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\obj\Debug\netcoreapp3.1\Indexer.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\bin\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.exe
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\bin\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.deps.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\bin\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\bin\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.runtimeconfig.dev.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\bin\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\bin\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\obj\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\obj\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\obj\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\obj\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\obj\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\obj\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\if_else _Switsh_Trnary_Statmnets\obj\Debug\netcoreapp3.1\if_else _Switsh_Trnary_Statmnets.genruntimeconfig.cache

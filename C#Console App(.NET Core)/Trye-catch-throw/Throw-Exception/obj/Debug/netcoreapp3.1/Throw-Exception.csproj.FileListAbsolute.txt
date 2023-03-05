@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\bin\Debug\netcoreapp3.1\Throw-Exception.exe
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\bin\Debug\netcoreapp3.1\Throw-Exception.deps.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\bin\Debug\netcoreapp3.1\Throw-Exception.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\bin\Debug\netcoreapp3.1\Throw-Exception.runtimeconfig.dev.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\bin\Debug\netcoreapp3.1\Throw-Exception.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\bin\Debug\netcoreapp3.1\Throw-Exception.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\obj\Debug\netcoreapp3.1\Throw-Exception.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\obj\Debug\netcoreapp3.1\Throw-Exception.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\obj\Debug\netcoreapp3.1\Throw-Exception.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\obj\Debug\netcoreapp3.1\Throw-Exception.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\obj\Debug\netcoreapp3.1\Throw-Exception.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\obj\Debug\netcoreapp3.1\Throw-Exception.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Trye-catch-throw\Throw-Exception\obj\Debug\netcoreapp3.1\Throw-Exception.genruntimeconfig.cache

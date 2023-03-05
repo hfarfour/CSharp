@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\bin\Debug\netcoreapp3.1\Static.exe
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\bin\Debug\netcoreapp3.1\Static.deps.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.dev.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\bin\Debug\netcoreapp3.1\Static.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\bin\Debug\netcoreapp3.1\Static.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\obj\Debug\netcoreapp3.1\Static.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\obj\Debug\netcoreapp3.1\Static.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\obj\Debug\netcoreapp3.1\Static.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\obj\Debug\netcoreapp3.1\Static.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Static\obj\Debug\netcoreapp3.1\Static.genruntimeconfig.cache

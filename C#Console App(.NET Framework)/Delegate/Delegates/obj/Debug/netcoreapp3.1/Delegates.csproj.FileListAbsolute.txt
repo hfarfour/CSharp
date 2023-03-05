@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache

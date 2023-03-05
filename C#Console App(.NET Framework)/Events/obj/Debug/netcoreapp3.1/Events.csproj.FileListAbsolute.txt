@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache

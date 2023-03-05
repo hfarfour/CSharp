@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\bin\Debug\netcoreapp3.1\Function Delegate.exe
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\bin\Debug\netcoreapp3.1\Function Delegate.deps.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\bin\Debug\netcoreapp3.1\Function Delegate.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\bin\Debug\netcoreapp3.1\Function Delegate.runtimeconfig.dev.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\bin\Debug\netcoreapp3.1\Function Delegate.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\bin\Debug\netcoreapp3.1\Function Delegate.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\obj\Debug\netcoreapp3.1\Function Delegate.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\obj\Debug\netcoreapp3.1\Function Delegate.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\obj\Debug\netcoreapp3.1\Function Delegate.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\obj\Debug\netcoreapp3.1\Function Delegate.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\obj\Debug\netcoreapp3.1\Function Delegate.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\obj\Debug\netcoreapp3.1\Function Delegate.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Delegate\Function Delegate\obj\Debug\netcoreapp3.1\Function Delegate.genruntimeconfig.cache

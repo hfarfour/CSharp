@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\bin\Debug\netcoreapp3.1\ClassAndObjects.exe
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\bin\Debug\netcoreapp3.1\ClassAndObjects.deps.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\bin\Debug\netcoreapp3.1\ClassAndObjects.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\bin\Debug\netcoreapp3.1\ClassAndObjects.runtimeconfig.dev.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\bin\Debug\netcoreapp3.1\ClassAndObjects.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\bin\Debug\netcoreapp3.1\ClassAndObjects.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\ClassAndObjects\obj\Debug\netcoreapp3.1\ClassAndObjects.genruntimeconfig.cache

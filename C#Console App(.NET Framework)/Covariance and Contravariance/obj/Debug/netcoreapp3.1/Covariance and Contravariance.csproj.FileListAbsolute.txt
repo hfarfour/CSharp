@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\bin\Debug\netcoreapp3.1\Covariance and Contravariance.exe
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\bin\Debug\netcoreapp3.1\Covariance and Contravariance.deps.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\bin\Debug\netcoreapp3.1\Covariance and Contravariance.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\bin\Debug\netcoreapp3.1\Covariance and Contravariance.runtimeconfig.dev.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\bin\Debug\netcoreapp3.1\Covariance and Contravariance.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\bin\Debug\netcoreapp3.1\Covariance and Contravariance.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\obj\Debug\netcoreapp3.1\Covariance and Contravariance.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\obj\Debug\netcoreapp3.1\Covariance and Contravariance.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\obj\Debug\netcoreapp3.1\Covariance and Contravariance.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\obj\Debug\netcoreapp3.1\Covariance and Contravariance.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\obj\Debug\netcoreapp3.1\Covariance and Contravariance.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\obj\Debug\netcoreapp3.1\Covariance and Contravariance.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Covariance and Contravariance\obj\Debug\netcoreapp3.1\Covariance and Contravariance.genruntimeconfig.cache

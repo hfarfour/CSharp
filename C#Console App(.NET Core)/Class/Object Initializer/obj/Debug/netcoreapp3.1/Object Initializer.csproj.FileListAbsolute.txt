@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\bin\Debug\netcoreapp3.1\Object Initializer.exe
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\bin\Debug\netcoreapp3.1\Object Initializer.deps.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\bin\Debug\netcoreapp3.1\Object Initializer.runtimeconfig.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\bin\Debug\netcoreapp3.1\Object Initializer.runtimeconfig.dev.json
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\bin\Debug\netcoreapp3.1\Object Initializer.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\bin\Debug\netcoreapp3.1\Object Initializer.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\obj\Debug\netcoreapp3.1\Object Initializer.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\obj\Debug\netcoreapp3.1\Object Initializer.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\obj\Debug\netcoreapp3.1\Object Initializer.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\obj\Debug\netcoreapp3.1\Object Initializer.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\obj\Debug\netcoreapp3.1\Object Initializer.dll
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\obj\Debug\netcoreapp3.1\Object Initializer.pdb
+C:\Users\hossa\OneDrive\Desktop\C#Console App(.NET Framework)\Object Initializer\obj\Debug\netcoreapp3.1\Object Initializer.genruntimeconfig.cache
